@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Indrajit Maji</h1>
 <h3 align="center">Software Engineer with a desire to apply my technical knowledge and commercial acumen to the fields of operations and development.</h3>
 
-- 🔭 I’m currently working on **Firebase Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **Android Devlopment**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Native Applications**
 
